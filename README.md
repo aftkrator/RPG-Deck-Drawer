@@ -73,5 +73,3 @@ To streamline gameplay without opening the **Tools** menu repeatedly, you can ma
 * **Content Agnostic:** The plugin works with the currently active PDF or EPUB file and does not read or parse page text/contents.
 
 ---
-
-*Enjoy your sessions!*
