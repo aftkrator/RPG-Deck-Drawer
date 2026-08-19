@@ -1,6 +1,6 @@
 # Card Deck Drawer
 
-`rpg_deck_drawer` is a KOReader plugin that turns the currently opened PDF or EPUB into a randomized, non-repeating deck simulator.
+`card_deck_drawer` is a KOReader plugin that turns the currently opened PDF or EPUB into a randomized, non-repeating deck simulator.
 
 It is designed for solo RPG card decks, oracle decks, tarot-style PDFs, prompt books, random tables, and any other document where each page can act like a drawable card.
 
@@ -20,7 +20,7 @@ The deck state is session-based. Closing or reloading the document resets the pl
 The plugin directory contains:
 
 ```text
-rpg_deck_drawer.koplugin/
+card_deck_drawer.koplugin/
 |-- _meta.lua
 |-- main.lua
 `-- README.md
